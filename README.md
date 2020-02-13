@@ -61,3 +61,5 @@ void	ft_free(register void *buff)
 t_main_42sh			*g_lp_array;
 
 extern t_main_42sh			*g_lp_array;
+
+https://developer.apple.com/library/archive/documentation/Performance/Conceptual/ManagingMemory/Articles/FindingPatterns.html#//apple_ref/doc/uid/20001882-CJBJFIDD
