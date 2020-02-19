@@ -65,3 +65,15 @@ extern t_main_42sh			*g_lp_array;
 https://developer.apple.com/library/archive/documentation/Performance/Conceptual/ManagingMemory/Articles/FindingPatterns.html#//apple_ref/doc/uid/20001882-CJBJFIDD
 
 https://cdn.intra.42.fr/pdf/pdf/960/norme.en.pdf
+
+5
+##start
+r_start 23 3
+r_1 16 7
+r_2 16 3
+r_5 16 5
+r_6 9 3
+r_7 1 5
+r_8 4 8
+##end
+r_end 9 5
